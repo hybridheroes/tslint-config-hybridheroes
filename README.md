@@ -30,6 +30,12 @@ In `tslint.json`:
 * [tslint](https://www.npmjs.com/package/tslint)
 * [tslint-eslint-rules](https://www.npmjs.com/package/tslint-eslint-rules)
 
+## Roadmap
+
+1. Include Codelyzer
+2. Support TypeScript 2.3+
+3. Find a way to limit the number of statements per functions as [seen in ESLint](http://eslint.org/docs/rules/max-statements) 
+
 ## License
 
 MIT
