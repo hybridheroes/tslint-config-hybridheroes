@@ -1,6 +1,6 @@
 {
-  "name": "tslint-config-hybridheroes",
-  "version": "1.0.0",
+  "name": "@hybridheroes/tslint-config",
+  "version": "1.1.0",
   "description": "The TSLint config in use by Hybrid Heroes",
   "main": "tslint.js",
   "scripts": {
@@ -14,11 +14,12 @@
   "author": "Hybrid Heroes",
   "license": "MIT",
   "dependencies": {
-    "codelyzer": "2.1.1",
-    "tslint-config-standard": "4.0.0"
+    "tslint-config-prettier": "1.0.0",
+    "tslint-eslint-rules": "4.1.1",
+    "tslint-react": "3.0.0"
   },
   "devDependencies": {
-    "tslint": "4.5.1",
+    "tslint": "5.2.0",
     "typescript": "2.1.6"
   }
 }
