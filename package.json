@@ -12,6 +12,7 @@
     "config"
   ],
   "author": "Hybrid Heroes",
+  "homepage": "https://hybridheroes.de",
   "license": "MIT",
   "dependencies": {
     "tslint-config-prettier": "1.0.0",
